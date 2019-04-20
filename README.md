@@ -7,3 +7,5 @@ Animations are an interesting way of demonstrating a phenomenon. We as humans ar
 The above image is a simulation of Rain and has been achieved with Matplotlib library which is fondly known as the grandfather of python visualization packages. Matplotlib simulates raindrops on a surface by animating the scale and opacity of 50 scatter points. Today Python boasts of a large number of powerful visualisation tools like Plotly, Bokeh, Altair to name a few. These libraries are able to achieve state of the art animations and interactiveness. Nonetheless, the aim of this article is to highlight one aspect of this library which isn’t explored much and that is Animations and we are going to look at some of the ways of doing that.
 
 This repository is associated with an article I wrote on Medium with the same title. Read the entire article [here](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Animations-with-Matplotlib/master)
