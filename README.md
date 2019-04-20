@@ -1,4 +1,7 @@
 ## Animations with Matplotlib
+
+Watch the animations live at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Animations-with-Matplotlib/master?filepath=Animations%20with%20Matplotlib.ipynb)
+
 ![Alt Text](https://cdn-images-1.medium.com/max/800/1*SSlRUf6BSVOXEdINzd0nRg.gif)
 
 
@@ -8,4 +11,3 @@ The above image is a simulation of Rain and has been achieved with Matplotlib li
 
 This repository is associated with an article I wrote on Medium with the same title. Read the entire article [here](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Animations-with-Matplotlib/master)
